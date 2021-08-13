@@ -12,6 +12,6 @@ A simple python script that creates gists using API requests
 
 ```bash
   String (Private) or (Public)
-```bash
+```
 
 
