@@ -1,1 +1,1 @@
-print("test gist creation from python using API requests")
+print("test gist generation from python using API requests")
